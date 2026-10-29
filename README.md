@@ -1,0 +1,1 @@
+# arovero_kicad_lib
