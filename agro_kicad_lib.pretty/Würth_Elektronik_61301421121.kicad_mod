@@ -646,7 +646,7 @@
 		(uuid "23c04afe-5024-4937-9296-988a7ec6f4d4")
 	)
 	(embedded_fonts no)
-	(model "${AROVERO_KICAD_LIB}/3D/Würth_Elektronik_61301421121.stp"
+	(model "${AGRO_KICAD_LIB}/3D/Würth_Elektronik_61301421121.stp"
 		(offset
 			(xyz 0 0 1.27)
 		)

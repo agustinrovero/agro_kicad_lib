@@ -34,7 +34,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Abracon_LLC_ASPI-0628-6R8M-T1"
+		(property "Footprint" "agro_kicad_lib:Abracon_LLC_ASPI-0628-6R8M-T1"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -244,7 +244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Abracon_LLC_ASPI-4030S-6R8M-T"
+		(property "Footprint" "agro_kicad_lib:Abracon_LLC_ASPI-4030S-6R8M-T"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -443,7 +443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Abracon_LLC_ASPI-6045S-6R8M-T"
+		(property "Footprint" "agro_kicad_lib:Abracon_LLC_ASPI-6045S-6R8M-T"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -658,7 +658,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Amphenol_ICC_(FCI)_10118194-0011LF"
+		(property "Footprint" "agro_kicad_lib:Amphenol_ICC_(FCI)_10118194-0011LF"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1202,7 +1202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:CIT_J1071CS5VDC.36"
+		(property "Footprint" "agro_kicad_lib:CIT_J1071CS5VDC.36"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1581,7 +1581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:DEGSON_DG128-5.08-1000A(H)-02P"
+		(property "Footprint" "agro_kicad_lib:DEGSON_DG128-5.08-1000A(H)-02P"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1695,7 +1695,7 @@
 				)
 			)
 		)
-		(property "Value" "DG308-2.54-02P"
+		(property "Value" "DEGSON DG308-2.54-02P"
 			(at 2.54 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1705,7 +1705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:DEGSON_DG308-2.54-02P"
+		(property "Footprint" "agro_kicad_lib:DEGSON_DG308-2.54-02P"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1895,7 +1895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:DEGSON_DG308-2.54-03P"
+		(property "Footprint" "agro_kicad_lib:DEGSON_DG308-2.54-03P"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2062,7 +2062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Diodes Incorporated DESD1V0ZS1BLP3-7"
+		(property "Footprint" "agro_kicad_lib:Diodes Incorporated DESD1V0ZS1BLP3-7"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2272,7 +2272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Diodes_Incorporated_MMSZ52XXB"
+		(property "Footprint" "agro_kicad_lib:Diodes_Incorporated_MMSZ52XXB"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2464,7 +2464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:TSOT23-6"
+		(property "Footprint" "agro_kicad_lib:TSOT23-6"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2723,7 +2723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Diodes_Incorporated_AZ1117CH-3.3TRG1"
+		(property "Footprint" "agro_kicad_lib:Diodes_Incorporated_AZ1117CH-3.3TRG1"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2914,7 +2914,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kicad_lib:TO252-3"
+		(property "Footprint" "agro_kicad_lib:TO252-3"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3263,7 +3263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Diodes_Incorporated_MMSZ52XXB"
+		(property "Footprint" "agro_kicad_lib:Diodes_Incorporated_MMSZ52XXB"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3447,7 +3447,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 0 20.32 0)
+			(at 0 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3457,7 +3457,7 @@
 			)
 		)
 		(property "Value" "ESP32-C3-MINI-1-N4X"
-			(at 0 17.78 0)
+			(at 0 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3466,7 +3466,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:ESPRESSIF_ESP32-C3-MINI-1"
+		(property "Footprint" "agro_kicad_lib:ESPRESSIF_ESP32-C3-MINI-1"
 			(at 2.54 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3534,17 +3534,6 @@
 		)
 		(property "MPN" "ESP32-C3-MINI-1-N4X"
 			(at 0 -33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Designator" "${REFERENCE}"
-			(at 3.81 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -4242,7 +4231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:SOIC16"
+		(property "Footprint" "agro_kicad_lib:SOIC16"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4656,7 +4645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kicad_lib:SOT23-3"
+		(property "Footprint" "agro_kicad_lib:SOT23-3"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5010,7 +4999,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Harvatek_Corporation_B3DK3BRG-05C000113U1930"
+		(property "Footprint" "agro_kicad_lib:Harvatek_Corporation_B3DK3BRG-05C000113U1930"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5375,7 +5364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Jumper_Pad_NC"
+		(property "Footprint" "agro_kicad_lib:Jumper_Pad_NC"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5542,7 +5531,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Jumper_Pad_NO"
+		(property "Footprint" "agro_kicad_lib:Jumper_Pad_NO"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5697,7 +5686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:SOD-523"
+		(property "Footprint" "agro_kicad_lib:SOD-523"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5904,7 +5893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Lite-On Inc. LTV354TA-V-36"
+		(property "Footprint" "agro_kicad_lib:Lite-On Inc. LTV354TA-V-36"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6401,7 +6390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Lite-On_LTST-C190"
+		(property "Footprint" "agro_kicad_lib:Lite-On_LTST-C190"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6669,7 +6658,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Lite-On_LTST-C190"
+		(property "Footprint" "agro_kicad_lib:Lite-On_LTST-C190"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6926,7 +6915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:MCC_1N4148W_TP"
+		(property "Footprint" "agro_kicad_lib:MCC_1N4148W_TP"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7126,7 +7115,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kicad_lib:MPD_6S-2-3A"
+		(property "Footprint" "agro_kicad_lib:MPD_6S-2-3A"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7389,7 +7378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:SOIC14"
+		(property "Footprint" "agro_kicad_lib:SOIC14"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7759,7 +7748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:SOIC8"
+		(property "Footprint" "agro_kicad_lib:SOIC8"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8021,7 +8010,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:STMicroelectronics_USBLC6-2P6"
+		(property "Footprint" "agro_kicad_lib:STMicroelectronics_USBLC6-2P6"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8247,7 +8236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:STMicroelectronics_USBLC6-2SC6"
+		(property "Footprint" "agro_kicad_lib:STMicroelectronics_USBLC6-2SC6"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8479,7 +8468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
+		(property "Footprint" "agro_kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8692,7 +8681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Texas_Instruments_BQ25185DLHR"
+		(property "Footprint" "agro_kicad_lib:Texas_Instruments_BQ25185DLHR"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8990,7 +8979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:SOT23-5"
+		(property "Footprint" "agro_kicad_lib:SOT23-5"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9198,7 +9187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:SOT23-5"
+		(property "Footprint" "agro_kicad_lib:SOT23-5"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9697,7 +9686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Vishay_TDCG1060M"
+		(property "Footprint" "agro_kicad_lib:Vishay_TDCG1060M"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10106,7 +10095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "arovero_kicad_lib:Würth_Elektronik_61300411121"
+		(property "Footprint" "agro_kicad_lib:Würth_Elektronik_61300411121"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10321,7 +10310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "arovero_kicad_lib:Würth_Elektronik_61300611121"
+		(property "Footprint" "agro_kicad_lib:Würth_Elektronik_61300611121"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10550,7 +10539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "arovero_kicad_lib:Würth_Elektronik_61300711121"
+		(property "Footprint" "agro_kicad_lib:Würth_Elektronik_61300711121"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10797,7 +10786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "arovero_kicad_lib:Würth_Elektronik_61301221121"
+		(property "Footprint" "agro_kicad_lib:Würth_Elektronik_61301221121"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11134,7 +11123,7 @@
 				)
 			)
 		)
-		(property "Footprint" "arovero_kicad_lib:Würth_Elektronik_61301421121"
+		(property "Footprint" "agro_kicad_lib:Würth_Elektronik_61301421121"
 			(at 0 -33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11510,7 +11499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:YAGEO_RC0603FR-070RL"
+		(property "Footprint" "agro_kicad_lib:YAGEO_RC0603FR-070RL"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11720,7 +11709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kicad_lib:SOT23-3"
+		(property "Footprint" "agro_kicad_lib:SOT23-3"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11938,7 +11927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:test_point"
+		(property "Footprint" "agro_kicad_lib:test_point"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12039,7 +12028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
+		(property "Footprint" "agro_kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12162,7 +12151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
+		(property "Footprint" "agro_kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12285,7 +12274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
+		(property "Footprint" "agro_kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12408,7 +12397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Murata_Electronics_GRM21BZ71A226ME15L"
+		(property "Footprint" "agro_kicad_lib:Murata_Electronics_GRM21BZ71A226ME15L"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12531,7 +12520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
+		(property "Footprint" "agro_kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12687,7 +12676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
+		(property "Footprint" "agro_kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12821,7 +12810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
+		(property "Footprint" "agro_kicad_lib:Samsung_Electro-Mechanics_CL10B104JB8NNNC"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12966,7 +12955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:YAGEO_RC0603FR-070RL"
+		(property "Footprint" "agro_kicad_lib:YAGEO_RC0603FR-070RL"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13089,7 +13078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:YAGEO_RC0603FR-070RL"
+		(property "Footprint" "agro_kicad_lib:YAGEO_RC0603FR-070RL"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13212,7 +13201,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:YAGEO_RC0603FR-070RL"
+		(property "Footprint" "agro_kicad_lib:YAGEO_RC0603FR-070RL"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13335,7 +13324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:YAGEO_RC0603FR-070RL"
+		(property "Footprint" "agro_kicad_lib:YAGEO_RC0603FR-070RL"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13458,7 +13447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:YAGEO_RC0603FR-070RL"
+		(property "Footprint" "agro_kicad_lib:YAGEO_RC0603FR-070RL"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13581,7 +13570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_lib:YAGEO_RC0603FR-070RL"
+		(property "Footprint" "agro_kicad_lib:YAGEO_RC0603FR-070RL"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)

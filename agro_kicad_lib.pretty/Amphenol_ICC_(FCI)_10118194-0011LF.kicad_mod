@@ -7,7 +7,7 @@
 		(at 0 -4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "d331a35f-8a7e-4bae-946f-298f7f8761d9")
+		(uuid "35ceaa59-bf90-47a6-9f3a-6a6a01c1ac9b")
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -20,7 +20,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "998b8091-f4ba-47bb-9137-a9bad9ca925f")
+		(uuid "9b3fc1a9-ea87-4d56-9a79-dce871ec3559")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b037e74b-d78e-4e5f-b354-f4a47c97652f")
+		(uuid "459d51f6-0bf2-4ebc-878f-0f5058e16495")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "64c222fe-a0ce-4cb6-9a46-2e26d243bb80")
+		(uuid "54a0858c-0007-4a60-8b76-96c2900b666c")
 		(effects
 			(font
 				(size 1 1)
@@ -64,7 +64,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "fade39fe-ba1e-4613-afed-31144798ef97")
+		(uuid "0431b890-3bd5-4675-b329-5aa6fadb5f39")
 	)
 	(fp_line
 		(start -3.7 2.15)
@@ -74,7 +74,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "08a07d88-571c-433b-9b75-62dcfbe00fbb")
+		(uuid "006c2ee6-1ee1-4f20-beb8-7d3c7df3a2fa")
 	)
 	(fp_line
 		(start -3.7 2.15)
@@ -84,7 +84,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "98aeccfe-3f74-4ba6-bef8-13009671a32a")
+		(uuid "27621a68-0d1e-43b7-bf1b-b96d60f3a05d")
 	)
 	(fp_line
 		(start -3.4 -2.85)
@@ -94,7 +94,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b677ba9d-d635-4948-8a7c-2ea8815c5ee6")
+		(uuid "eb36b80c-757b-4f0c-935b-110c7ec6d497")
 	)
 	(fp_line
 		(start 3.7 -2.85)
@@ -104,7 +104,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "cfb9bd22-a8be-49c0-8259-daff7ba9a7fc")
+		(uuid "7859bf7f-c9b9-44c7-872f-36135e852974")
 	)
 	(fp_line
 		(start 3.7 -1)
@@ -114,7 +114,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "efc256c8-b165-449e-8a38-50e595681e0a")
+		(uuid "e9e753ef-772c-424c-b382-43597d8fdc4c")
 	)
 	(fp_line
 		(start 3.7 2.15)
@@ -124,7 +124,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "3eb0fc2a-51ff-4737-a47e-3b5648902f62")
+		(uuid "32e4e8cc-aef4-4abf-93d3-7e417fa0fb3c")
 	)
 	(fp_line
 		(start -5 1.45)
@@ -134,7 +134,7 @@
 			(type default)
 		)
 		(layer "Dwgs.User")
-		(uuid "ec7aba05-28cf-4eba-9643-5db32e08a4d6")
+		(uuid "0b1151b2-8b8f-4449-a33c-df7fd99d93b6")
 	)
 	(fp_line
 		(start 0 0)
@@ -144,7 +144,7 @@
 			(type default)
 		)
 		(layer "Dwgs.User")
-		(uuid "fb3cdf2c-1d35-4b37-9e0f-81f6a88d4758")
+		(uuid "f782d302-a921-4d10-bfb1-8857c948e22c")
 	)
 	(fp_rect
 		(start -4 -3.4)
@@ -155,13 +155,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "f3aa7c04-8adf-47ce-93e7-9e515140ebd1")
+		(uuid "0ec67910-5c0e-43dd-a6c6-784e6302c839")
 	)
 	(fp_text user "PCB EDGE"
 		(at 5 1.45 0)
 		(unlocked yes)
 		(layer "Dwgs.User")
-		(uuid "5314e81f-448a-40ca-a7e4-387e0fdaf5ed")
+		(uuid "12b5c47f-ee8d-4dc5-b3dc-dd34ae3c9dba")
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -174,7 +174,7 @@
 		(at 0 3 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "2eea20fe-c2b7-4a01-8690-a4e44aba6599")
+		(uuid "b23e3f33-06ab-4d51-8a5d-a0478ca5ede0")
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -185,7 +185,7 @@
 	(dimension
 		(type orthogonal)
 		(layer "Dwgs.User")
-		(uuid "f8c5fea2-0713-4152-97fa-ceb51ef1bd27")
+		(uuid "2e9e2d15-a7b4-45f1-9a9c-312f6a33caf5")
 		(pts
 			(xy -3.5 1.45) (xy -3.5 0)
 		)
@@ -211,7 +211,7 @@
 		(gr_text "1.45"
 			(at -5.7 0.725 90)
 			(layer "Dwgs.User")
-			(uuid "f8c5fea2-0713-4152-97fa-ceb51ef1bd27")
+			(uuid "2e9e2d15-a7b4-45f1-9a9c-312f6a33caf5")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -225,31 +225,31 @@
 		(at -1.3 -2.7)
 		(size 0.4 1.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "c0ef9064-ac39-4a76-a6ce-9eeb02a455ed")
+		(uuid "7e0c2afe-8237-45a0-8015-3595ab7efc50")
 	)
 	(pad "2" smd rect
 		(at -0.65 -2.7)
 		(size 0.4 1.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "30350bc4-30fb-4ec1-af50-fea9a29ac08d")
+		(uuid "9dc48a53-8620-4304-8c82-64d11fd792e0")
 	)
 	(pad "3" smd rect
 		(at 0 -2.7)
 		(size 0.4 1.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "2eb9c9dc-49d3-47b2-b479-2504dd559ffc")
+		(uuid "f0b89f1a-69b1-4307-a0b0-f2a0ad5bed08")
 	)
 	(pad "4" smd rect
 		(at 0.65 -2.7)
 		(size 0.4 1.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "de709509-ae59-4fa6-96b8-db50fb4a34b4")
+		(uuid "f6ec95cb-1b69-4ff3-bd78-2fecd37b8c17")
 	)
 	(pad "5" smd rect
 		(at 1.3 -2.7)
 		(size 0.4 1.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "c7a0cc50-3c3d-4eac-ad02-311b8cec9f62")
+		(uuid "982a5c30-0ade-4fea-b1e4-1b5b33a95a09")
 	)
 	(pad "6" thru_hole oval
 		(at -3.5 0)
@@ -257,7 +257,7 @@
 		(drill oval 0.5 1.15)
 		(layers "*.Cu" "*.Paste" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "108d2e4a-33a7-4b40-aa69-9114f52519db")
+		(uuid "1ddc8d4e-d137-4bb5-8b82-53782a988758")
 	)
 	(pad "6" thru_hole oval
 		(at -2.5 -2.7)
@@ -265,19 +265,19 @@
 		(drill oval 0.85 0.55)
 		(layers "*.Cu" "*.Paste" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "3f64361a-3b58-4d04-a96a-4a6809408232")
+		(uuid "acd59cad-5596-446e-b6e4-c4f2da757590")
 	)
 	(pad "6" smd rect
 		(at -1 0)
 		(size 1.5 1.55)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "d254d517-4261-4db2-b714-92851db99ebb")
+		(uuid "699e1f14-0fd5-4698-b868-065d2a509cb2")
 	)
 	(pad "6" smd rect
 		(at 1 0)
 		(size 1.5 1.55)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "f05273d3-eb31-4045-9aa1-b1cbc91f57d6")
+		(uuid "c31f2025-4fc5-45b7-a2d4-248061a377c2")
 	)
 	(pad "6" thru_hole oval
 		(at 2.5 -2.7)
@@ -285,7 +285,7 @@
 		(drill oval 0.85 0.55)
 		(layers "*.Cu" "*.Paste" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "b5a76da9-a091-45dd-bdc7-84e58dd40774")
+		(uuid "96cafc5a-f43e-4234-8065-c4bde6f829e0")
 	)
 	(pad "6" thru_hole oval
 		(at 3.5 0)
@@ -293,10 +293,10 @@
 		(drill oval 0.5 1.15)
 		(layers "*.Cu" "*.Paste" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "fd2b973d-6db2-4609-a4a1-4be50aae8d54")
+		(uuid "90fc2b43-73cd-4aa0-a228-6a941f85c5f5")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_CUSTOM_LIBS}/kicad_lib/3D/Amphenol_ICC_(FCI)_10118194-0011LF.STEP"
+	(model "${AGRO_KICAD_LIB}/3D/Amphenol_ICC_(FCI)_10118194-0011LF.STEP"
 		(offset
 			(xyz 0 0 0)
 		)
